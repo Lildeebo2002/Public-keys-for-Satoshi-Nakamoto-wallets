@@ -32,7 +32,7 @@ API URL: https://blockchain.info/q/pubkeyaddr/1DSbufiriX9LsMHaGnYVAgawk7gx6AdaGD
 Discovering the private key in the examples above requires 1000 cards and multiple years of searching.
 Occasionally, after evaluating the expenses, searching for a key becomes unprofitable.
 
-Utilizing the Kangaroo BSGS program, you can rapidly locate the private key with the public key.
+Utilizing the Bitcoin Ruhs program, you can rapidly locate the private key with the public key.
 This process doesn't necessitate 1000 cards, just one (or a few) cards and a brief period. The duration of the search depends on the task.
 
 Puzzle search example 64
